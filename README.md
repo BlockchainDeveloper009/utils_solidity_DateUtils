@@ -1,4 +1,5 @@
 **Donations:** 0x8e702c652adfc77713b23acd46e23962d679c027
+https://medium.com/@BokkyPooBah/bokkypoobahs-gas-efficient-solidity-datetime-library-92bf96d9b2da
 
 * [DateUtils](#dateutils)
   * [isValidYMD](#function-isvalidymd)
